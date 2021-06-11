@@ -1,0 +1,33 @@
+{
+	"rice": [
+		{
+			"name": "basmati rice",
+			"weight": 10,
+			"pricePerKg": 52
+		},
+		{
+			"name": "kolam rice",
+			"weight": 10,
+			"pricePerKg": 58
+		}
+	],
+	"pulse": [
+		{
+			"name": "dal",
+			"weight": 20,
+			"pricePerKg": 90
+		},
+		{
+			"name": "bajri",
+			"weight": 25,
+			"pricePerKg": 88
+		}
+	],
+	"wheat": [
+		{
+			"name": "gehu",
+			"weight": 25,
+			"pricePerKg": 70
+		}
+	]
+}
